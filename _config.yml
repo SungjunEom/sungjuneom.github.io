@@ -1,6 +1,55 @@
 title: Sungjun Eom
-# logo: /assets/img/logo.png
-description: University of Seoul.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+description: Jekyll theme for a beautiful online CV
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+# taglong: Sungjun Eom
+# tagshort: Sungjun Eom
+
+# author settings
+author:
+  name: Sungjun Eom
+  email: sungjun.eom2024@gmail.com
+photo: assets/files/photo.jpg
+# address: University of Seoul 163 Seoulsiripdaero, Dongdaemun-gu, Seoul 02504, Republic of Korea
+# phone: +1 234 567 890
+
+# profile links
+profile:
+  # facebook: https://www.facebook.com/username
+  # x: https://x.com/username
+  # mastodon: https://mastodon.social/@username
+  # bluesky: https://bsky.app/profile/username.bsky.social
+  # instagram: https://www.instagram.com/username
+  # linkedin: https://www.linkedin.com/in/username
+  # xing: https://www.xing.com/profile/username
+  # stackoverflow: https://stackoverflow.com/users/0000000/username
+  # medium: https://medium.com/@username
+  tistory: https://masterofece.tistory.com
+  github: https://github.com/SungjunEom
+  scholar: https://scholar.google.com/citations?user=vymNsc8AAAAJ
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+
+markdown: kramdown
+  

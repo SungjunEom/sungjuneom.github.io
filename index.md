@@ -1,11 +1,17 @@
 ---
-layout: default
+layout: home
+title: Home
 ---
 
-# Glad you're here.
-Unfortunately, I have nothing to show you except my [CV](./cv.pdf) and some images of cute ducks, which are collected from the web and carefully selected by me.
+# About
 
-![duck](./assets/img/51y0J+DYriL._AC_UF1000,1000_QL80_.jpg)
-![duck](./assets/img/s-l1200.webp)
-![duck](./assets/img/s-l1200%20(1).webp)
-![duck](./assets/img/duck-you-cute-duck-with-knife-meme-chicken-gift-mens-t-shirt.jpg)
+I'm Sungjun Eom, a graduate student at the University of Seoul, pusuing M.S. in **Electrical and Computer Engineering**. Before starting M.S., I got a double major in **Electrical and Computer Engineering** and **Statistics**.
+
+
+Currently, I am contributing to the advancement of the **differential dynamic programming algorithm** at the Control and Dynamic Systems Lab. I have also gained experience in deep learning, and speaker verification through previous research internships. Additionally, my military service in the Republic of Korea Air Force enhanced my leadership and technical skills, particularly in managing secure wide-area communication systems.
+
+I'm particularly interested in **differential dynamic programming** and **sampling-based model predictive control** for optimal control, and **semi-parametric estimation** for statistics. In the future, I hope to contribute to deep learning theory from a system-theoretic perspective.
+
+Feel free to reach out to discuss collaborative opportunities or learn more about my work!
+
+{% include archive.html %}
