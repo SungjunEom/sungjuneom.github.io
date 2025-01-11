@@ -3,7 +3,7 @@ description: Jekyll theme for a beautiful online CV
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-remote_theme: cvless
+# theme: cvless
 
 # site settings
 # taglong: Sungjun Eom
@@ -40,6 +40,8 @@ exclude:
   - Gemfile
   - vendor/
   - docker-compose.yml
+  - demo/
+  - cvless.gemspec
 
 plugins:
   - jekyll-feed
