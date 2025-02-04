@@ -7,9 +7,13 @@ use_math: true
 
 # 1. Settings
 Two measurable spaces:
+
 $$(X,\mathcal{A},\mu)\quad\text{and}\quad (Y,\mathcal{B},\mu_T)$$
+
 Consider a transform $\;T\;$ such that:
+
 $$T:X\rightarrow Y$$
+
 where $\;T\;$ is a measurable map. i.e., $T^{-1}(B)\in \mathcal{A}\quad \forall B\in\mathcal{B}$.
 
 $T$ induces a pushforward measure $\mu_T$:
