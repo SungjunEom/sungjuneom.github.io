@@ -25,7 +25,7 @@ where $\rho:Y\rightarrow [0,\infty]$. (I missed this point before: the Radon-Nik
 
 Let $f$ be a nonnegative measurable function on $Y$. Then,
 
-$$\int_Y f(y)=d\mu_T(y)=\int_Xf(T(x))d\mu(x)$$
+$$\int_Y f(y)d\mu_T(y)=\int_Xf(T(x))d\mu(x)$$
 
 $$\begin{aligned} \int_Y f(y)d\nu(y)&=\int_Y f(y)\frac{d\nu}{d\mu_T}d\mu_T(y)\\&=\int_Yf(y)\rho(y)d\mu_T(y)\\&=\int_X f(T(x))\rho(T(x))d\mu(x) \end{aligned}$$
 
