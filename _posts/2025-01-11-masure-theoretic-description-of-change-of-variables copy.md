@@ -12,7 +12,7 @@ Consider a transform $\;T\;$ such that:
 $$T:X\rightarrow Y$$
 where $\;T\;$ is a measurable map. i.e., $T^{-1}(B)\in \mathcal{A}\quad \forall B\in\mathcal{B}$.
 
-$T$ induces a pushforward measure $\nu_T$:
+$T$ induces a pushforward measure $\mu_T$:
 
 $$\mu_T(B)=\mu(T^{-1}(B))$$
 
