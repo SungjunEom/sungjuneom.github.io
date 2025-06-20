@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Curriculum Vitae
-For a full CV, click [here](/assets/files/cv.pdf)
+For the full CV, click [here](/assets/files/cv.pdf)
 {% include contact.html %}
 
 ## Education
