@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Curriculum Vitae
-For the full CV, click [here](/assets/files/cv.pdf)
+For the full CV, click [here](/assets/files/CV_SungjunEom.pdf)
 {% include contact.html %}
 
 ## Education
