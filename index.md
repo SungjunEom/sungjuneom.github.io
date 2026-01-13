@@ -12,6 +12,6 @@ Currently, I am contributing to the advancement of the **differential dynamic pr
 
 I'm particularly interested in developing learning methods for dynamical systems/control systems in low-data regimes. I also hope to contribute to deep learning theory from a system-theoretic perspective. Ultimately, by bridging machine learning theory with real-time physical systems, I want to narrow the gap between the computerized world and the real physical world we are living in.
 
-Feel free to reach out to discuss collaborative opportunities or learn more about my work!
+Feel free to reach out to discuss collaborative opportunities or learn more about my work! asdf asdf asdf
 
 {% include archive.html %}
